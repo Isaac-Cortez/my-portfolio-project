@@ -1,2 +1,2 @@
 # my-website-project
-this is my art and web design portfolio
+this is my web design portfolio
