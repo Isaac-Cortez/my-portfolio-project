@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protein Chicken Alfredo Recipe</title>
+</head>
+<body>
+  
+  <img src="https://markleisherproductions.com/wp-content/uploads/2021/01/logo-placeholder-png-2.png" alt="Simply Cooked Logo" width="50" height="50">
+  
+  <nav class="navbar">
+  <ul>
+    <li><a href="">Home</a></li>
+    <li><a href="">About</a></li>
+    <li><a href="">Products</a></li>
+    <li><a href="">Contact</a></li>
+  </ul>
+ </nav>
+  
+  <h1>Cooked Simply</h1>
+
+    <section class="hero">
+  <div class="hero-image">
+    <img src="https://i.pinimg.com/1200x/da/da/9b/dada9b681758c6657507d667b5b9c802.jpg" alt="Protein Chicken Alfredo">
+  </div>
+
+  <div class="hero-text">
+    <h2>A home-made recipe for creamy and sastisfying <br>protein chicken alfredo</h2>
+    <p>Looking for a healthy yet delicious alternative for a beloved<br>italian dish? Cooked Simply has got you covered featuring<br>our recipe crafted from people with a passion for homemade<br>and healthy cuisine, check out our chicken alfredo recipe<br>now packed with protein and greens all in 30 minutes!</p>
+    <a href="" class="cta-button">See Recipe!</a>
+  </div>
+</section>
+  <main>
+    
+    <h3>List of ingredients</h3>
+    
+    <h4>Protein:</h4>
+    <ul>
+    <li>2 boneless and skinless chicken breasts</li>
+    <li>1 cup of low-fat cottage cheese</li>
+    <li>½ cup of plain non-fat greek yogurt</li>
+    <li>¾ of grated parmesan cheese</li>
+    <li>8 oz of high protein pasta</li>
+    </ul>
+    
+    <h4>Veggies:</h4>
+    <ul>
+    <li>2 cups of broccoli florets</li>
+    <li>3 cloves of garlic minced</li>
+    </ul>
+    
+    <h4>Sauce:</h4>
+    <ul>
+    <li>1 cup of low-fat dairy milk (but you can also use unsweetened almond milk)</li>
+    <li>1 tablespoon of olive oil or light butter</li>
+    <li>1 tablespoon of all-purpose flour</li>
+    </ul>
+    
+    <h4>seasonings:</h4>
+    <ul>
+    <li>Red pepper flakes (optional but my personal favorite)
+</li>
+    <li>Garlic powder (also optional)</li>
+    <li>Salt and pepper to liking</li>
+    </ul>
+    
+    <img src="https://assets.content.technologyadvice.com/635755897805293546_b4860b3010.webp" alt="red pepper and garlic powder" width="400" height="400">
+    
+    <h3>Basic cooking instructions (in steps):</h3>
+    <ol>
+      <li>(0-5 min) Put large pot of water to boil, cut chiken breasts into small pieces, chop
+broccoli into florets, and then mince garlic.</li>
+      <br>
+      <li>(5-15 min) start cooking the pasta, sauté chicken in alive oil/ light butter, then
+microwave broccoli.</li>
+      <br>
+      <li>(15-22 min) Remove chicken from pot and sauté the pot with garlic, add milk and a bit of
+flour, stir in cottage cheese and greek yogurt and parmesan, then simmer gently for 3 min.</li>
+      <br>
+      <li>(22-30 min)  Add chicken and broccoli back to pan, toss in drained pasta, adjust the salt
+and pepper and any other seasoning, and you are done!</li>
+    </ol>
+    <br>
+    
+      <img src="https://www.janellerohner.com/wp-content/uploads/2022/09/Web-10.png" alt="high protein chicken alfredo with broccoli" width="400" height="400">
+    <br>
+     <a href="" class="cta-button">More Recipes!</a>
+     <a href="" class="cta-button">Sign up/Log in</a>
+    
+    <footer>
+        <p>&copy; 2026 SimplyCooked.com All rights reserved</p>
+        <p>
+            <a href="about">About Us</a> | 
+            <a href="contact">Contact</a> | 
+            <a href="privacy">Privacy Policy</a>
+        </p>
+    </footer>
+    
+  </main>
+</body>
+</html>

@@ -1,0 +1,104 @@
+body{
+  margin: 0px;
+  background-color: #635138;
+}
+main{
+  margin: 20px;
+}
+h1{
+  text-align: center;
+  font-family: cursive;
+}
+.navbar a{
+  color: #fff6d1;
+  text-decoration: none;
+  padding: 60px;
+  text-align: center;
+  font-family: cursive;
+}
+.navbar a:hover{
+  Background-color: #635138;
+}
+.navbar ul {
+  list-style-type: none;
+  background-color: #52702f;
+  padding: 40px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
+h1 {
+  font-family: gill sans;
+  color: #fff6d1;
+}
+p {
+  font-family: calibri;
+}
+.navbar a:focus-visible {
+  color: black;
+  font-weight: bold;
+}
+.cta-button {
+  display: inline-block;
+  background-color: #ccab52;
+  color: black;
+  padding: 15px 30px;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.cta-button:hover {
+  background-color: #fff6d1;
+  color: black;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+  margin: 40px;
+}
+.hero img {
+  width: 800px;
+  height: 700px;
+  border-radius: 10px;
+}
+.hero-text {
+  max-width: 500px;
+  color: #fff6d1;
+}
+main h2,
+main p,
+.cta-button {
+  max-width: 500px;
+}
+ol {
+  column-count: 2;
+  column-gap: 40px;
+  margin: 20px;
+}
+main img:last-of-type {
+  float: left;
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+}
+.cta-button {
+  display: inline-block;
+  margin: 10px 10px 10px 0;
+}
+main::after {
+  display: block;
+  clear: both;
+}
+
+footer a {
+  color: #fff6d1;
+}
+footer {
+  clear: both;
+  text-align: center;
+  width: 100%;
+  color: #fff6d1;
+  padding: 20px;
+}
